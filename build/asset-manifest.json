@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b24a4d3.css",
-    "main.js": "/static/js/main.94e3f90d.js",
-    "static/media/CV.pdf": "/static/media/CV.7350cdb0892d53cab4fd.pdf",
-    "static/media/ho.jpg": "/static/media/ho.25904e8911ffc73a4a28.jpg",
-    "static/media/girl.jpg": "/static/media/girl.7e6d10dcbd34745264b6.jpg",
-    "static/media/p1.jpg": "/static/media/p1.0b7dec9df7f29d2247f5.jpg",
-    "static/media/p4.jpg": "/static/media/p4.734f25581f5e031a438c.jpg",
-    "static/media/p2.jpg": "/static/media/p2.398766034a794d245983.jpg",
-    "static/media/hack.png": "/static/media/hack.1024b54e1ebf47b26129.png",
-    "static/media/p3.jpg": "/static/media/p3.4cabf3806d08907c2056.jpg",
-    "static/media/p5.jpg": "/static/media/p5.36c0f14abee0332814c5.jpg",
-    "static/media/p6.jpg": "/static/media/p6.21eb46de9bf5b238e8e3.jpg",
-    "static/media/p6.png": "/static/media/p6.f3431ba843f180141fb3.png",
-    "index.html": "/index.html",
-    "main.2b24a4d3.css.map": "/static/css/main.2b24a4d3.css.map",
-    "main.94e3f90d.js.map": "/static/js/main.94e3f90d.js.map"
+    "main.css": "/portofolio-s/static/css/main.c03fcbba.css",
+    "main.js": "/portofolio-s/static/js/main.249908ab.js",
+    "static/media/quiz-app.png": "/portofolio-s/static/media/quiz-app.4f822d42e78edd98faa6.png",
+    "static/media/p1.jpg": "/portofolio-s/static/media/p1.0b7dec9df7f29d2247f5.jpg",
+    "static/media/palestine.gif": "/portofolio-s/static/media/palestine.151e747410ce8888cbf4.gif",
+    "static/media/girl.jpg": "/portofolio-s/static/media/girl.54d00a0e6e26b2227847.jpg",
+    "static/media/porto.png": "/portofolio-s/static/media/porto.3ab8b9ede46acefd9e68.png",
+    "static/media/p2.jpg": "/portofolio-s/static/media/p2.398766034a794d245983.jpg",
+    "static/media/school.png": "/portofolio-s/static/media/school.b7c02603f28f59d217c9.png",
+    "static/media/p5.jpg": "/portofolio-s/static/media/p5.36c0f14abee0332814c5.jpg",
+    "static/media/p4.jpg": "/portofolio-s/static/media/p4.040a84e8718694941edb.jpg",
+    "static/media/p6.png": "/portofolio-s/static/media/p6.f3431ba843f180141fb3.png",
+    "static/media/Tofik_Mifta_CV.pdf": "/portofolio-s/static/media/Tofik_Mifta_CV.bf39858c0401ceb8a978.pdf",
+    "index.html": "/portofolio-s/index.html",
+    "main.c03fcbba.css.map": "/portofolio-s/static/css/main.c03fcbba.css.map",
+    "main.249908ab.js.map": "/portofolio-s/static/js/main.249908ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b24a4d3.css",
-    "static/js/main.94e3f90d.js"
+    "static/css/main.c03fcbba.css",
+    "static/js/main.249908ab.js"
   ]
 }

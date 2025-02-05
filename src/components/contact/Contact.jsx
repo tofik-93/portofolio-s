@@ -6,9 +6,6 @@ import { RiMetaFill} from 'react-icons/ri'
 import  {useRef} from 'react'
 import emailjs from 'emailjs-com'
 
-
-
-
 const data =[
   {
   id:1,
