@@ -59,23 +59,23 @@ const data =[
  
 ]
 
-const Porotfolio = () => {
+const Portfolio = () => {
   return (
-    <section id='porotfolio'>
+    <section id='Portfolio'>
       <h5>My React work</h5>
       <h2>Portofolio</h2>
       <div className="container portfolio_container">
       {
         data.map(({id,image,title,github,demo})=>{
        return(  <article key={id} className='portofolio_item'>
-          <div className="prorfolio_item-image">
+          <div className="portofolio_item-image">
             <img src={image} alt={title} />
           </div>
           
         <h3>{title}</h3>
         <div className="portofolio_item-cta">
         <a href={github} className="btn">Github</a>
-        <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+        <a href={demo} className='btn btn-primary' target='blank' rel="noopener noreferrer">Live Demo</a>
 
         </div>
        </article>)
@@ -88,4 +88,4 @@ const Porotfolio = () => {
   )
 }
 
-export default Porotfolio
+export default Portfolio
