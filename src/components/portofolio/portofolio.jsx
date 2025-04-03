@@ -12,31 +12,31 @@ const data =[
     id:1,
     image:Img1,
     title:'School-Mangement-System',
-     github:"https://github.com/ozone-tech-dev/School-management-system/tree/tofik_frontend/Frontend_1",
-     demo:"https://github.com/ozone-tech-dev/School-management-system/tree/tofik_frontend/Frontend_1"
+     github:"https://github.com/ozone-tech-dev/School-management-system/tree/Filmon_frontend/Frontend_1",
+     demo:"https://github.com/ozone-tech-dev/School-management-system/tree/Filmon_frontend/Frontend_1"
 
   },
   {
     id:2,
     image:Img2,
     title:'E-commerce',
-     github:"https://github.com/tofik-93/",
-     demo:"https://www.mifta.com"
+     github:"https://github.com/Filmon-93/",
+     demo:"https://www.ggu.com"
 
   },
   {
     id:3,
     image:Img3,
     title:'Spotify',
-     github:"https://github.com/tofik-93/spotify",
-     demo:"https://github.com/tofik-93/spotify"
+     github:"https://github.com/Filmon-93/spotify",
+     demo:"https://github.com/Filmon-93/spotify"
 
   },
   {
     id:4,
     image:Img4,
     title:'Quiz app',
-     github:"https://github.com/tofik-93/quiz-app-",
+     github:"https://github.com/Filmon-93/quiz-app-",
      demo:"https://www.fhft.com"
 
   },

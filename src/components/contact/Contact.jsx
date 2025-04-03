@@ -10,21 +10,21 @@ const data =[
   {
   id:1,
   type:"Email",
-  link:"malito:tofikmifta97@gmail.com",
+  link:"malito:Filmonfano@gmail.com",
   icon:<RiMetaFill className='contact_option-icon'/>,
-  contacts:"tofikmifta977@gmial.com",
+  contacts:"Filmonfano@gmial.com",
   },
    {
     id:2,
     type:"Instagram",
     link:"https://www.instagram.com/tof.k_m.f/",
     icon:<RiMessengerLine className='contact_option-icon'/>,
-    contacts:"Tofik Mi  "
+    contacts:"Filmon Mi  "
     },
     {
       id:3,
       type:"Linkedin",
-      link:"https://www.linkedin.com/in/tofik-mifta-8856452b1/",
+      link:"https://www.linkedin.com/in/Filmon-fano856452b1/",
       icon:<FaLinkedin className='contact_option-icon'/>,
       contacts:"+25194033696"
       },

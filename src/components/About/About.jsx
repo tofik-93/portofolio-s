@@ -34,9 +34,9 @@ function About() {
 <small>55+ Completed</small>
     </article>
   </div>
-  <p>I am Tofik Mifta , I am Fullstack for several years and 
+  <p>I am Filmon Fano , I am Fullstack for several years and 
     worked on moblie Application ,
-    now I am 4th year student at Astu</p>
+    now I am 5th year student at Astu</p>
 <a href="#contact" className='btn btn-primary'>
   Let a Talk
 </a>
