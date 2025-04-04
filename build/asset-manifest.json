@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portofolio-s/static/css/main.c03fcbba.css",
-    "main.js": "/portofolio-s/static/js/main.249908ab.js",
+    "main.css": "/portofolio-s/static/css/main.0a007ed9.css",
+    "main.js": "/portofolio-s/static/js/main.f1fe6a97.js",
     "static/media/quiz-app.png": "/portofolio-s/static/media/quiz-app.4f822d42e78edd98faa6.png",
     "static/media/p1.jpg": "/portofolio-s/static/media/p1.0b7dec9df7f29d2247f5.jpg",
     "static/media/palestine.gif": "/portofolio-s/static/media/palestine.151e747410ce8888cbf4.gif",
@@ -9,16 +9,16 @@
     "static/media/porto.png": "/portofolio-s/static/media/porto.3ab8b9ede46acefd9e68.png",
     "static/media/p2.jpg": "/portofolio-s/static/media/p2.398766034a794d245983.jpg",
     "static/media/school.png": "/portofolio-s/static/media/school.b7c02603f28f59d217c9.png",
+    "static/media/p4.jpg": "/portofolio-s/static/media/p4.79ef3d962a9ee031cf6c.jpg",
     "static/media/p5.jpg": "/portofolio-s/static/media/p5.36c0f14abee0332814c5.jpg",
-    "static/media/p4.jpg": "/portofolio-s/static/media/p4.040a84e8718694941edb.jpg",
     "static/media/p6.png": "/portofolio-s/static/media/p6.f3431ba843f180141fb3.png",
-    "static/media/Filmon.pdf": "/portofolio-s/static/media/Filmon.bf39858c0401ceb8a978.pdf",
+    "static/media/Tofik_Mifta_CV.pdf": "/portofolio-s/static/media/Tofik_Mifta_CV.bf39858c0401ceb8a978.pdf",
     "index.html": "/portofolio-s/index.html",
-    "main.c03fcbba.css.map": "/portofolio-s/static/css/main.c03fcbba.css.map",
-    "main.249908ab.js.map": "/portofolio-s/static/js/main.249908ab.js.map"
+    "main.0a007ed9.css.map": "/portofolio-s/static/css/main.0a007ed9.css.map",
+    "main.f1fe6a97.js.map": "/portofolio-s/static/js/main.f1fe6a97.js.map"
   },
   "entrypoints": [
-    "static/css/main.c03fcbba.css",
-    "static/js/main.249908ab.js"
+    "static/css/main.0a007ed9.css",
+    "static/js/main.f1fe6a97.js"
   ]
 }
