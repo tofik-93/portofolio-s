@@ -7,7 +7,7 @@ import React from 'react'
 const Footer = () => {
   return (
    <footer>
-    <a href="#" className='footer_logo'>Filmon Fano</a>
+    <a href="#" className='footer_logo'>Tofik Mifta</a>
     <ul className='permalinks'>
       <li><a href="#">Home</a></li>
       <li><a href="#about">About</a></li>
@@ -20,7 +20,7 @@ const Footer = () => {
 
 
     <div className="footer_socials">
-      <a href="https://facbook.com"><FaFacebookF/></a>
+      <a href="https://web.facebook.com/tofic.mifta"><FaFacebookF/></a>
       <a href="https://www.instagram.com/tof.k_m.f/"><FiInstagram/></a>
      <a href="https://twitter.com"><IoLogoTwitter/></a>
        <a href="ttps://www.linkedin.com/in/Filmon-Fano-8856452b1/"><FaLinkedin/></a>
@@ -28,7 +28,7 @@ const Footer = () => {
 
     </div>  
   <div className="footer_copyright">
-    <small>&copy; Filmon Fano website. All right reserved</small>
+    <small>&copy; Tofik Mifta website. All right reserved</small>
   </div>
    </footer>
   )

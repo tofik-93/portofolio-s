@@ -47,7 +47,7 @@ const data1 =[
   avater:avat5,
   avanum:"Avater Five",
   clientName:"Meron Mifta",
-  comment:"well done Filmon , I will expected more🤑"
+  comment:"well done Tofik , I will expected more🤑"
  },
 
 ]

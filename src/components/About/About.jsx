@@ -1,5 +1,5 @@
 import React from 'react'
-import Me from '../../assets/p4.jpg'
+import Me from '../../assets/p4.JPG'
 import './About.css'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers } from 'react-icons/fi'
@@ -34,7 +34,7 @@ function About() {
 <small>55+ Completed</small>
     </article>
   </div>
-  <p>I am Filmon Fano , I am Fullstack for several years and 
+  <p>I am Tofik MIfta , I am Fullstack for several years and 
     worked on moblie Application ,
     now I am 5th year student at Astu</p>
 <a href="#contact" className='btn btn-primary'>
